@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/newFolderItem"
+        android:title="New Folder"
+        android:icon="@android:drawable/ic_menu_add" />
+    <item
+        android:id="@+id/newTextFileItem"
+        android:title="New Text File"
+        android:icon="@android:drawable/ic_menu_edit" />
+</menu>
